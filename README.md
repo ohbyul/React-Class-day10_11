@@ -1,5 +1,8 @@
 # day 10
 수업 참여 X
+- todoList
+- 친구 List
+day 16-1 (지각) 구조 바뀐 코드 
 
 # day 11 
 ### src -> Movies
